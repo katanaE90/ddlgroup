@@ -1,6 +1,6 @@
 <?php
 
 
-$fruits = ['apple', 'pinapple', 'pear', 'chearry', 'apricot'];
+$fruits = ['apple', 'pinapple', 'chearry', 'apricot'];
 
 print_r($fruits);
